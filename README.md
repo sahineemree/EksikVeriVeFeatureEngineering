@@ -1,7 +1,4 @@
-# 🧩 Feature Engineering: Eksik Verileri Anlama ve İşleme Rehberi
-
-Eksik verilerle doğru şekilde başa çıkmak, makine öğrenmesi ve veri analizi projelerinde **model başarısını doğrudan etkileyen** kritik bir adımdır. Bu rehberde, eksik verilerin **neden oluştuğunu** ve **nasıl ele alınması gerektiğini** net ve pratik bir şekilde ele alıyoruz.
-
+# 🧩 Feature Engineering: Eksik Verileri Anlamak ve İşlemek
 ---
 
 ## 🔍 1. Eksik Veri Türleri (Neden Eksikler?)
